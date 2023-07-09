@@ -80,8 +80,8 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.0.5.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-alibaba-nacos-config:0.2.1.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-alibaba-nacos-config:0.2.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-alibaba-nacos-discovery:0.2.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-alibaba-nacos-discovery:0.2.1.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba.nacos:nacos-client:0.6.2" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba.nacos:nacos-common:0.6.2" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.2" level="project" />
@@ -94,8 +94,6 @@
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-commons:2.0.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:5.0.9.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-context:2.0.2.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-alibaba-nacos-discovery:0.2.1.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-alibaba-nacos-discovery:0.2.1.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.0.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter:2.0.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-rsa:1.0.7.RELEASE" level="project" />

@@ -3,11 +3,11 @@ server:
 spring:
   cloud:
     nacos:
-      config:
-        server-addr: 101.33.229.65:8848
-        namespace: test
-        group: DEFAULT_GROUP
-        file-extension: yml
+#      config:
+#        server-addr: 101.33.229.65:8848
+#        namespace: test
+#        group: DEFAULT_GROUP
+#        file-extension: yml
       discovery:
         server-addr: 101.33.229.65:8848
   redis:
