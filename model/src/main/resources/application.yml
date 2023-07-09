@@ -1,6 +1,15 @@
 server:
   port: 8001
 spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 101.33.229.65:8848
+        namespace: test
+        group: DEFAULT_GROUP
+        file-extension: yml
+      discovery:
+        server-addr: 101.33.229.65:8848
   redis:
     host: 101.33.229.65
     port: 6379
